@@ -1,3 +1,3 @@
 # MyRepo
 this is first repo<br>
-author-ashish singh rana
+author-ashish singh rana(programmer)
